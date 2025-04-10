@@ -71,7 +71,7 @@ You can have a look at the datasets in the following path: `./data/unspecified/N
 
 This respository has been configured to support GitHub Codespace and DevContainers.
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/francesco-sodano/itsarag) [![Open in Dev Containers](https://img.shields.io/static/v1?style=for-the-badge&label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/francesco-sodano/itsarag)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/It-s-a-RAG/itsarag) [![Open in Dev Containers](https://img.shields.io/static/v1?style=for-the-badge&label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/It-s-a-RAG/itsarag)
 
 > [!WARNING]
 > Do NOT `git clone` the application under Windows and then open a DevContainer. 
